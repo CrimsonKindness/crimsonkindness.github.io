@@ -42,6 +42,11 @@
   </url>
   
   <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/</loc>
+    <lastmod>2017-01-19T18:20:24-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://crimsonkindness.github.io/shop/</loc>
     <lastmod>2016-12-23T10:44:26-06:00</lastmod>
   </url>
@@ -109,6 +114,12 @@
   <url>
     <loc>https://crimsonkindness.github.io/shop/</loc>
     <lastmod>2016-12-23T10:44:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/</loc>
+    <lastmod>2017-01-19T18:20:24-06:00</lastmod>
     <priority>0</priority>
   </url>
   
