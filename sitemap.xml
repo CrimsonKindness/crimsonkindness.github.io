@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/sunday/</loc>
+    <lastmod>2017-01-22T21:50:42-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://crimsonkindness.github.io/officers/president/</loc>
     <lastmod>2016-12-21T22:32:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/monday/</loc>
+    <lastmod>2017-01-22T21:50:51-06:00</lastmod>
   </url>
   
   <url>
@@ -12,8 +22,33 @@
   </url>
   
   <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/tuesday/</loc>
+    <lastmod>2017-01-22T21:50:52-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://crimsonkindness.github.io/officers/financial/</loc>
     <lastmod>2016-12-22T00:31:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/wednesday/</loc>
+    <lastmod>2017-01-22T21:50:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/officers/communications/</loc>
+    <lastmod>2017-01-22T14:04:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/thursday/</loc>
+    <lastmod>2017-01-22T21:50:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crimsonkindness.github.io/officers/marketing/</loc>
+    <lastmod>2016-12-22T00:34:40-06:00</lastmod>
   </url>
   
   <url>
@@ -27,28 +62,13 @@
   </url>
   
   <url>
-    <loc>https://crimsonkindness.github.io/officers/event/</loc>
-    <lastmod>2016-12-22T00:35:40-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crimsonkindness.github.io/officers/marketing/</loc>
-    <lastmod>2016-12-22T00:34:40-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://crimsonkindness.github.io/officers/web-and-design/</loc>
     <lastmod>2016-12-22T00:35:24-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://crimsonkindness.github.io/officers/communications/</loc>
-    <lastmod>2017-01-22T14:04:31-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crimsonkindness.github.io/team-leaders/</loc>
-    <lastmod>2017-01-19T18:20:24-06:00</lastmod>
+    <loc>https://crimsonkindness.github.io/officers/event/</loc>
+    <lastmod>2016-12-22T00:35:40-06:00</lastmod>
   </url>
   
   <url>
@@ -82,6 +102,11 @@
   </url>
   
   <url>
+    <loc>https://crimsonkindness.github.io/team-leaders/</loc>
+    <lastmod>2016-12-21T22:12:34-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://crimsonkindness.github.io/about/</loc>
     <lastmod>2016-12-20T18:02:49-06:00</lastmod>
   </url>
@@ -100,7 +125,7 @@
   
   <url>
     <loc>https://crimsonkindness.github.io/</loc>
-    <lastmod>2016-12-21T22:32:22-06:00</lastmod>
+    <lastmod>2017-01-22T21:50:42-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,12 +144,6 @@
   <url>
     <loc>https://crimsonkindness.github.io/shop/</loc>
     <lastmod>2016-12-23T10:44:26-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://crimsonkindness.github.io/team-leaders/</loc>
-    <lastmod>2017-01-19T18:20:24-06:00</lastmod>
     <priority>0</priority>
   </url>
   

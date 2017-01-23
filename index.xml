@@ -6,8 +6,17 @@
     <description>Recent content on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2016 22:32:22 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 21:50:42 -0600</lastBuildDate>
     <atom:link href="https://crimsonkindness.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Team Sunday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/sunday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:42 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/sunday/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>President</title>
@@ -15,6 +24,15 @@
       <pubDate>Wed, 21 Dec 2016 22:32:22 -0600</pubDate>
       
       <guid>https://crimsonkindness.github.io/officers/president/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Monday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/monday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:51 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/monday/</guid>
       <description></description>
     </item>
     
@@ -28,11 +46,56 @@
     </item>
     
     <item>
+      <title>Team Tuesday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/tuesday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:52 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Financial Coordinator</title>
       <link>https://crimsonkindness.github.io/officers/financial/</link>
       <pubDate>Thu, 22 Dec 2016 00:31:44 -0600</pubDate>
       
       <guid>https://crimsonkindness.github.io/officers/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Wednesday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/wednesday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:54 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/wednesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communications Director</title>
+      <link>https://crimsonkindness.github.io/officers/communications/</link>
+      <pubDate>Sun, 22 Jan 2017 14:04:31 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/officers/communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Thursday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/thursday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:56 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/thursday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Director</title>
+      <link>https://crimsonkindness.github.io/officers/marketing/</link>
+      <pubDate>Thu, 22 Dec 2016 00:34:40 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/officers/marketing/</guid>
       <description></description>
     </item>
     
@@ -55,24 +118,6 @@
     </item>
     
     <item>
-      <title>Event Coordinator</title>
-      <link>https://crimsonkindness.github.io/officers/event/</link>
-      <pubDate>Thu, 22 Dec 2016 00:35:40 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/officers/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing Director</title>
-      <link>https://crimsonkindness.github.io/officers/marketing/</link>
-      <pubDate>Thu, 22 Dec 2016 00:34:40 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/officers/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web &amp; Design Director</title>
       <link>https://crimsonkindness.github.io/officers/web-and-design/</link>
       <pubDate>Thu, 22 Dec 2016 00:35:24 -0600</pubDate>
@@ -82,20 +127,11 @@
     </item>
     
     <item>
-      <title>Communications Director</title>
-      <link>https://crimsonkindness.github.io/officers/communications/</link>
-      <pubDate>Sun, 22 Jan 2017 14:04:31 -0600</pubDate>
+      <title>Event Coordinator</title>
+      <link>https://crimsonkindness.github.io/officers/event/</link>
+      <pubDate>Thu, 22 Dec 2016 00:35:40 -0600</pubDate>
       
-      <guid>https://crimsonkindness.github.io/officers/communications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team Leaders</title>
-      <link>https://crimsonkindness.github.io/team-leaders/</link>
-      <pubDate>Thu, 19 Jan 2017 18:20:24 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/team-leaders/</guid>
+      <guid>https://crimsonkindness.github.io/officers/event/</guid>
       <description></description>
     </item>
     
@@ -106,98 +142,6 @@
       
       <guid>https://crimsonkindness.github.io/shop/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>https://crimsonkindness.github.io/contact/</link>
-      <pubDate>Thu, 22 Dec 2016 21:48:02 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/contact/</guid>
-      <description>&lt;p&gt;Want to talk to us? Feel free to contact anyone on the &lt;a href=&#34;../officers&#34;&gt;Leadership Team&lt;/a&gt;, or
-find us on our social media accounts (
-  &lt;a href=&#34;http://facebook.com/CrimsonKindness&#34;&gt;Facebook&lt;/a&gt;,
-  &lt;a href=&#34;http://twitter.com/CrimsonKindness&#34;&gt;Twitter&lt;/a&gt;,
-  &lt;a href=&#34;http://instagram.com/CrimsonKindness&#34;&gt;Instagram&lt;/a&gt;, &amp;amp;
-  &lt;a href=&#34;http://pinterest.com/CrimsonKindness&#34;&gt;Pinterest&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;You can also use the form on the left to send us an email at
-&lt;a href=&#34;mailto:CrimsonKindness@gmail.com&#34;&gt;CrimsonKindness@gmail.com&lt;/a&gt;,
-and use the form on the right to subscribe to our newsletter.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://crimsonkindness.github.io/events/</link>
-      <pubDate>Thu, 22 Dec 2016 01:59:29 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/events/</guid>
-      <description>&lt;p&gt;Below is a calendar of all of our events, including meetings, service activities,
-team weeks, and more. If you click on an event, you can add it to your Google
-Calendar.&lt;/p&gt;
-
-&lt;p&gt;Have an event suggestion for us? We love new ideas! &lt;a href=&#34;../contact&#34;&gt;Send us an email&lt;/a&gt;
-to let us know!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teams</title>
-      <link>https://crimsonkindness.github.io/teams/</link>
-      <pubDate>Thu, 22 Dec 2016 01:53:39 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/teams/</guid>
-      <description>
-
-&lt;p&gt;Teams are the heart and soul of Crimson Kindness. Teams consist of fun activities
-engaging you and others in acts of kindness. &lt;a href=&#34;../team-leaders&#34;&gt;Team Leaders&lt;/a&gt;
-will provide an activity at each meeting helping you to spread a little more
-kindness each time you go.&lt;/p&gt;
-
-&lt;p&gt;Teams meet every other week on Sunday-Thursday at 7:00 in the Ferguson Center on
-the 2nd floor. You can pick the team that works best for you, but you
-are welcome to participate each day you want!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please make sure that you &lt;a href=&#34;../join&#34;&gt;become a member&lt;/a&gt; before you become a part
-of a team.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Member Facebook Group:&lt;/strong&gt; Once you’re a member, you can request to join the
-&lt;a href=&#34;https://www.facebook.com/groups/crimsonkindnessmembers/&#34;&gt;CK Member Facebook Group&lt;/a&gt;
-so you get important updates and announcements regarding teams, events and meetings.
-This is a members-only group. Don’t forget to like our general
-&lt;a href=&#34;http://facebook.com/CrimsonKindness&#34;&gt;Facebook page&lt;/a&gt; as well!&lt;/p&gt;
-
-&lt;h4 id=&#34;fill-out-the-form-below-to-join-a-crimson-kindness-team&#34;&gt;Fill out the form below to join a Crimson Kindness team.&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Join</title>
-      <link>https://crimsonkindness.github.io/join/</link>
-      <pubDate>Thu, 22 Dec 2016 01:48:21 -0600</pubDate>
-      
-      <guid>https://crimsonkindness.github.io/join/</guid>
-      <description>
-
-&lt;p&gt;If you’re here already, you’re probably pretty passionate about kindness, right?
-That’s awesome and we would LOVE for you to become a member and participate in
-our projects. In addition to the steps below we ask that our members come to at
-least 2 meetings per semester and participate on one of our teams. We can’t wait
-to meet you!&lt;/p&gt;
-
-&lt;h4 id=&#34;becoming-a-member-is-a-two-step-process&#34;&gt;Becoming a member is a two-step process:&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Sign up using the form below, and log in with your myBama credentials
-if asked. We’ll use your Crimson email address to add you to The SOURCE roster.
-The invitation will be sent after Step 2 is completed. Be sure to accept our
-organization invitation once we send it to you!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; &lt;a href=&#34;../shop&#34;&gt;Pay your membership dues.&lt;/a&gt; ($10 for the academic year, $5
-  prorated for spring semesters)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Form not working? Try this link &lt;a href=&#34;https://goo.gl/forms/zLy9MrtmEyEhQiD72&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

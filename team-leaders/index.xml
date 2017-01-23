@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team-leaders on Crimson Kindness</title>
+    <title>Team Leaders on Crimson Kindness</title>
     <link>https://crimsonkindness.github.io/team-leaders/index.xml</link>
-    <description>Recent content in Team-leaders on Crimson Kindness</description>
+    <description>Recent content in Team Leaders on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2017 18:20:24 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 22:12:34 -0600</lastBuildDate>
     <atom:link href="https://crimsonkindness.github.io/team-leaders/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Team Leaders</title>
-      <link>https://crimsonkindness.github.io/team-leaders/</link>
-      <pubDate>Thu, 19 Jan 2017 18:20:24 -0600</pubDate>
+      <title>Team Sunday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/sunday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:42 -0600</pubDate>
       
-      <guid>https://crimsonkindness.github.io/team-leaders/</guid>
+      <guid>https://crimsonkindness.github.io/team-leaders/sunday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Monday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/monday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:51 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/monday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Tuesday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/tuesday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:52 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Wednesday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/wednesday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:54 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/wednesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Thursday</title>
+      <link>https://crimsonkindness.github.io/team-leaders/thursday/</link>
+      <pubDate>Sun, 22 Jan 2017 21:50:56 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/team-leaders/thursday/</guid>
       <description></description>
     </item>
     
