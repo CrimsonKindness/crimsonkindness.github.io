@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crimson Kindness</title>
-    <link>https://crimsonkindness.github.io/index.xml</link>
+    <link>https://crimsonkindness.github.io/</link>
     <description>Recent content on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 21:50:42 -0600</lastBuildDate>
-    <atom:link href="https://crimsonkindness.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://crimsonkindness.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Team Sunday</title>
@@ -142,6 +144,56 @@
       
       <guid>https://crimsonkindness.github.io/shop/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://crimsonkindness.github.io/contact/</link>
+      <pubDate>Thu, 22 Dec 2016 21:48:02 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/contact/</guid>
+      <description>Want to talk to us? Feel free to contact anyone on the Leadership Team, or find us on our social media accounts ( Facebook, Twitter, Instagram, &amp;amp; Pinterest).
+You can also use the form on the left to send us an email at CrimsonKindness@gmail.com, and use the form on the right to subscribe to our newsletter.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://crimsonkindness.github.io/events/</link>
+      <pubDate>Thu, 22 Dec 2016 01:59:29 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/events/</guid>
+      <description>Below is a calendar of all of our events, including meetings, service activities, team weeks, and more. If you click on an event, you can add it to your Google Calendar.
+Have an event suggestion for us? We love new ideas! Send us an email to let us know!</description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://crimsonkindness.github.io/teams/</link>
+      <pubDate>Thu, 22 Dec 2016 01:53:39 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/teams/</guid>
+      <description>Teams are the heart and soul of Crimson Kindness. Teams consist of fun activities engaging you and others in acts of kindness. Team Leaders will provide an activity at each meeting helping you to spread a little more kindness each time you go.
+Teams meet every other week on Sunday-Thursday at 7:00 in the Ferguson Center on the 2nd floor. You can pick the team that works best for you, but you are welcome to participate each day you want!</description>
+    </item>
+    
+    <item>
+      <title>Join</title>
+      <link>https://crimsonkindness.github.io/join/</link>
+      <pubDate>Thu, 22 Dec 2016 01:48:21 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/join/</guid>
+      <description>If you’re here already, you’re probably pretty passionate about kindness, right? That’s awesome and we would LOVE for you to become a member and participate in our projects. In addition to the steps below we ask that our members come to at least 2 meetings per semester and participate on one of our teams. We can’t wait to meet you!
+Becoming a member is a two-step process: Step 1: Sign up using the form below, and log in with your myBama credentials if asked.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://crimsonkindness.github.io/about/</link>
+      <pubDate>Tue, 20 Dec 2016 18:02:49 -0600</pubDate>
+      
+      <guid>https://crimsonkindness.github.io/about/</guid>
+      <description>Crimson Kindness was founded in February of 2013 out of a desire to make our campus a more kind place. Inspired by the Random Acts of Kindness Foundation, Crimson Kindness set out to make a difference on campus and in the Tuscaloosa community.
+Our Mission The goal of Crimson Kindness on The University of Alabama campus is to create a community of kindness by engaging the student population in acts of kindness and inspiring kindness in our community.</description>
     </item>
     
   </channel>

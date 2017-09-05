@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Leaders on Crimson Kindness</title>
-    <link>https://crimsonkindness.github.io/team-leaders/index.xml</link>
+    <link>https://crimsonkindness.github.io/team-leaders/</link>
     <description>Recent content in Team Leaders on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Dec 2016 22:12:34 -0600</lastBuildDate>
-    <atom:link href="https://crimsonkindness.github.io/team-leaders/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://crimsonkindness.github.io/team-leaders/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Team Sunday</title>

@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shops on Crimson Kindness</title>
-    <link>https://crimsonkindness.github.io/shop/index.xml</link>
+    <link>https://crimsonkindness.github.io/shop/</link>
     <description>Recent content in Shops on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Dec 2016 10:44:26 -0600</lastBuildDate>
-    <atom:link href="https://crimsonkindness.github.io/shop/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://crimsonkindness.github.io/shop/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Shop</title>
