@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crimson Kindness</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Crimson Kindness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2016 22:32:22 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 21:50:54 -0600</lastBuildDate>
     
 	<atom:link href="https://crimsonkindness.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -134,15 +134,7 @@
       <pubDate>Fri, 23 Dec 2016 10:44:26 -0600</pubDate>
       
       <guid>https://crimsonkindness.github.io/shop/</guid>
-      <description>2019 Spring Dues $5
-  Grduation Cords - Teal and Maroon $7
-  CK Hat $20
- 
-&amp;ldquo;One Act of Kindness Can Change the World&amp;rdquo; Shirt (Short-Sleeve, Seafoam) $20
- SizeMedium $20.00 USD Large $20.00 USD Extra-Large $20.00 USD    
-
-&#34;One Act of Kindness Can Change the World&#34; Shirt (Short-Sleeve, Grey) $20
- SizeLarge $20.00 USD Extra Large $20.00 USD      &#34;</description>
+      <description></description>
     </item>
     
     <item>
@@ -161,8 +153,7 @@ You can also use the form on the left to send us an email at CrimsonKindness@gma
       <pubDate>Thu, 22 Dec 2016 01:59:29 -0600</pubDate>
       
       <guid>https://crimsonkindness.github.io/events/</guid>
-      <description>Below is a calendar of all of our events, including meetings, service activities, team weeks, and more.
-Loading&amp;hellip;&amp;gt;  Have an event suggestion for us? We love new ideas! Send us an email to let us know!</description>
+      <description>Below is a calendar of all of our events, including meetings, service activities, team weeks, and more.</description>
     </item>
     
     <item>
